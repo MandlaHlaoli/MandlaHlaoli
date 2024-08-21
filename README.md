@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Mandla</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandlaHlaoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandlaHlaoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MandlaHlaoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MandlaHlaoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -44,6 +44,26 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mandlahlaoli/mandlahlaoli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MandlaHlaoli/MandlaHlaoli/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31bgvmgtihgrob4db53hji6de6ey">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bgvmgtihgrob4db53hji6de6ey&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MandlaHlaoli" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MandlaHlaoli/count.svg?"  />
+</div>
 
 ###
