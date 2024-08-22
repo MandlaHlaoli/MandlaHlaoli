@@ -39,9 +39,6 @@
 <!-- SQL Server Badge -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sql server logo" />
 
-<!-- Backendless Badge -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backendless/backendless-original.svg" height="30" alt="backendless logo" />
-
 <!-- Node.js Badge -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo" />
 
