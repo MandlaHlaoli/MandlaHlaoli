@@ -27,6 +27,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <!-- JavaScript Badge -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+
+<!-- GitHub Badge -->
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
+
+<!-- Git Badge -->
+<img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="git logo" />
+
+<!-- SQL Server Badge -->
+<img src="https://img.shields.io/static/v1?message=SQL%20Server&logo=microsoft-sql-server&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="sql server logo" />
+
+<!-- Backendless Badge -->
+<img src="https://img.shields.io/static/v1?message=Backendless&logo=backendless&label=&color=00A1E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="backendless logo" />
+
+<!-- Node.js Badge -->
+<img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="node.js logo" />
+
 </div>
 
 ###
