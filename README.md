@@ -90,9 +90,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MandlaHlaoli/count.svg?"  />
-</div>
+## <span style="color:#007BFF; font-size:24px; font-weight:bold;">Profile Counter</span>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/MandlaHlaoli/count.svg?" />
 </div>
