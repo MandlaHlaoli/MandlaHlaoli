@@ -47,6 +47,9 @@
 <a href="https://github.com/MandlaHlaoli" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
 </a>
+<a href="https://web.facebook.com/Mandla171/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+</a>
 
 </div>
 
