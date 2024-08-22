@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MandlaHlaoli/MandlaHlaoli/output/snake.svg" alt="Snake animation" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sulaiman001221/sulaiman001221/output/github-contribution-grid-snake.svg" />
 
 ###
 
