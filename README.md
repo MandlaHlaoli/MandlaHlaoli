@@ -71,7 +71,7 @@
 <a href="https://wa.me/+27656194750" target="_blank">
   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
 </a>
-<a href="https://your-rocketchat-link.com" target="_blank">
+<a href="http://rocketchat.umuzi.org/direct/Mandla-Hlaoli" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Rocket%20Chat&logo=rocketchat&label=&color=0061F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Rocket Chat logo" />
 </a>
 </a>
