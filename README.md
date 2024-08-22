@@ -50,8 +50,12 @@
 <a href="https://web.facebook.com/Mandla171/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
-<a href="https://x.com/your-username" target="_blank">
+<a href="https://x.com/DumbaMbangula" target="_blank">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+</a>
+<a href="https://wa.me/0656194750" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+</a>
 </a>
 </div>
 
