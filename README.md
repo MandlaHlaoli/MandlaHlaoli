@@ -31,22 +31,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
 </a>
 
-  
-  <h4>Backend</h4>
+<h4>Backend</h4>
+<a href="https://nodejs.org/en/docs" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://docs.python.org/3/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+</a>
 
-  <h4>Databases</h4>
+<h4>Databases</h4>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="SQL Server" />
+</a>
 
-  <h4>Version Control & Tools</h4>
+<h4>Version Control & Tools</h4>
+<a href="https://docs.github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://git-scm.com/doc" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>
+</a>
 
 ###
 
