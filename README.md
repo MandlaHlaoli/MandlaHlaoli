@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mandla</h2>
-<p align="left">I'm a passionate software developer skilled in JavaScript, React, and more. Welcome to my GitHub profile!</p>
+<p align="left">I'm a passionate software developer, currently learning JavaScript, React, TypeScript, HTML5, CSS3, Node.js, Python, C#, and SQL Server. I'm actively looking for opportunities to grow and improve my skills. Welcome to my GitHub profile!</p>
 
 ###
 
@@ -15,15 +15,26 @@
 <div align="left">
   <h3>Tech Stack</h3>
   <h4>Frontend</h4>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
+</a>
+<img width="12" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</a>
+
   
   <h4>Backend</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
