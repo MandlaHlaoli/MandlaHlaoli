@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
 </a>
 <img width="12" />
-
-<img width="12" />
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </a>
