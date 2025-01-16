@@ -48,6 +48,23 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="SQL Server" />
   </a>
 
+   <h4>Statistical Tools</h4>
+  <a href="https://www.sas.com/en_us/home.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" height="30" alt="SAS" />
+  </a>
+  <img width="12" />
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+  </a>
+  <img width="12" />
+  <a href="https://www.jmp.com/en-us/statistics.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmp/jmp-original.svg" height="30" alt="JMP" />
+  </a>
+  <img width="12" />
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" />
+  </a>
+
   <h4>Version Control & Tools</h4>
   <a href="https://docs.github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
