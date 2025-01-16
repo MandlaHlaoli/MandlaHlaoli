@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mandla</h2>
-<p align="left">I'm a passionate Software Developer, currently learning JavaScript, React, TypeScript, HTML5, CSS3, Node.js, Python, C#, and SQL Server. I'm actively looking for opportunities to grow and improve my skills. Welcome to my GitHub profile!</p>
+<p align="left">I'm a passionate Software Developer who was trained in Information Technology and Software Development. Currently, I'm learning JavaScript, React, TypeScript, HTML5, CSS3, Node.js, Python, C#, SQL Server, and exploring my interests in data analysis. I'm actively looking for opportunities to grow and improve my skills. Welcome to my GitHub profile!</p>
 
 ### 🔥 Streak & Achievements
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandlaHlaoli&theme=dark" height="150" alt="streak stats" />
